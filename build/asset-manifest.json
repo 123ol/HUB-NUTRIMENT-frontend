@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c505c8d.css",
+    "main.js": "/static/js/main.5908ce9e.js",
+    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/food.jpg": "/static/media/food.36b4d9f11aef359dc6ff.jpg",
+    "static/media/gym-02.png": "/static/media/gym-02.06fd85c2c7a9d0f48978.png",
+    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/avatar02.png": "/static/media/avatar02.43d3323871cb17add5e2.png",
+    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/avatar01.png": "/static/media/avatar01.712b9be90c75dec89232.png",
+    "static/media/yoga-pose.png": "/static/media/yoga-pose.1009817918cc6df26064.png",
+    "static/media/imge.jpg": "/static/media/imge.81fbf82f73d25ac31a69.jpg",
+    "static/media/download.jpg": "/static/media/download.9b02567053d77ea6db75.jpg",
+    "static/media/logo.png": "/static/media/logo.04331c482357297acfca.png",
+    "static/media/extended.png": "/static/media/extended.65fee2ef368e447527a7.png",
+    "static/media/undraw_workout_gcgu.svg": "/static/media/undraw_workout_gcgu.aabfe5e13164bd992a6f002cf963b73b.svg",
+    "static/media/lunges.png": "/static/media/lunges.52e48615ce527a095bcf.png",
+    "static/media/undraw_breakfast_psiw.svg": "/static/media/undraw_breakfast_psiw.58bcd8472f6613cc501b70832b6e3316.svg",
+    "index.html": "/index.html",
+    "main.7c505c8d.css.map": "/static/css/main.7c505c8d.css.map",
+    "main.5908ce9e.js.map": "/static/js/main.5908ce9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c505c8d.css",
+    "static/js/main.5908ce9e.js"
+  ]
+}
